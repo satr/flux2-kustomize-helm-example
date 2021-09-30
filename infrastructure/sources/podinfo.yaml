@@ -4,4 +4,4 @@ metadata:
   name: podinfo
 spec:
   interval: 1m
-  url: https://github.com/satr/podinfo
+  url: https://stefanprodan.github.io/podinfo
